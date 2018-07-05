@@ -103,9 +103,7 @@ Modify the belows either jupyter notebook or python code and find the training p
 
 1) hyper-parameter
 2) activation functions
-3) number of instances or instance type
-
-Also, add more Dense (or fully connected) layers and observe if you can get better models.
+3) add more Dense (or fully connected) layers and observe if you can get better models.
 
 > NOTE: Refer to Gluon API (Basic Layers) at https://mxnet.incubator.apache.org/api/python/gluon.html
 
