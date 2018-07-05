@@ -3,7 +3,8 @@
 ## **How to set up Lab environment**
 
 1. Run the following CloudFormation template
-[<img src="https://s3.amazonaws.com/cloudformation-examples/cloudformation-launch-stack.png">] (https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=mlworkshop&templateURL=https://s3.amazonaws.com/yuvalbucket/mlworkshop/sagemaker.template)
+
+<img src="https://s3.amazonaws.com/cloudformation-examples/cloudformation-launch-stack.png"> (https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=mlworkshop&templateURL=https://s3.amazonaws.com/yuvalbucket/mlworkshop/sagemaker.template)
 2. In the AWS console, Open SageMaker.
 3. Open the mlworkshop Jupyter notebook, and open "terminal" by choosing "_New > Terminal_"
 3. Make a clone of git repository
