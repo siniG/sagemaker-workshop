@@ -13,7 +13,7 @@ RUN apt-get -y update && apt-get install -y --no-install-recommends \
          nginx \
          ca-certificates \
          python3-pip \
-         python-setuptools \
+         python3-setuptools \
     && rm -rf /var/lib/apt/lists/*
 
 # Here we get all python packages.
